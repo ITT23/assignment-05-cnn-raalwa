@@ -1,3 +1,11 @@
+'''
+This module controls media by hand gestures captures by the webcam
+
+Place a board with 4 ArUco markers and perform one of the following hand gestures
+- Stop:         Stops/Resumes playback
+- Thumbs up:    Increases Volume
+- Thumbs down:  Decrease Volume
+'''
 import sys
 import time
 

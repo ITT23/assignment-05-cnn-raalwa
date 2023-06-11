@@ -1,0 +1,107 @@
+{
+  "9484748e-0d7b-4664-b9a2-5609360c792c": {
+    "bboxes": [[0.1167, 0.4812, 0.3917, 0.3156]],
+    "labels": ["like"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "f0e91619-e468-46bc-974e-fad04dc5e926": {
+    "bboxes": [[0.0222, 0.3281, 0.3889, 0.3]],
+    "labels": ["dislike"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "44a7f119-f261-41cf-a41c-8f1b8d521222": {
+    "bboxes": [[0.0056, 0.275, 0.3722, 0.2938]],
+    "labels": ["stop"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "7f2afc88-5c3f-4696-a442-28eb2b1f7822": {
+    "bboxes": [[0.0194, 0.3766, 0.3833, 0.2641]],
+    "labels": ["rock"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "3420cf86-fa6a-41c5-8932-256779afdc0e": {
+    "bboxes": [[0.0194, 0.3484, 0.3417, 0.3797]],
+    "labels": ["peace"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "eb211895-e270-41b4-8feb-6aa14a024b82": {
+    "bboxes": [[0.1481, 0.2865, 0.0815, 0.0844]],
+    "labels": ["like"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "11ffea77-97fb-4d2a-b71c-6a2ed3a276f2": {
+    "bboxes": [[0.1665, 0.2894, 0.1156, 0.0781]],
+    "labels": ["dislike"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "726ac051-018b-4bfe-801d-bd0b11d3c41d": {
+    "bboxes": [[0.1324, 0.1661, 0.1417, 0.1135]],
+    "labels": ["stop"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "67a8f685-fa84-4fdc-8eb2-88f1135f859d": {
+    "bboxes": [[0.1454, 0.1974, 0.0907, 0.1135]],
+    "labels": ["peace"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "6b0d592f-b9da-4e3c-afaf-13d97ccc4774": {
+    "bboxes": [[0.1537, 0.2021, 0.1056, 0.1031]],
+    "labels": ["rock"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "fcbdaa69-e611-4a75-90a8-35266e8e975e": {
+    "bboxes": [
+      [0.1694, 0.3219, 0.0833, 0.0797],
+      [0.5676, 0.5495, 0.0963, 0.0729]
+    ],
+    "labels": ["like", "no_gesture"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "ae556ca9-a303-47d6-b9a2-a7f9c90ea5e7": {
+    "bboxes": [
+      [0.1519, 0.3203, 0.1111, 0.0734],
+      [0.5759, 0.5464, 0.0991, 0.0766]
+    ],
+    "labels": ["dislike", "no_gesture"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "cba76033-2393-4c68-a546-c7a464c84799": {
+    "bboxes": [
+      [0.1509, 0.1505, 0.137, 0.1167],
+      [0.5769, 0.5411, 0.1, 0.0807]
+    ],
+    "labels": ["stop", "no_gesture"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "b5cf5943-8ed8-43de-94fd-598953571ba7": {
+    "bboxes": [
+      [0.1528, 0.1589, 0.1056, 0.1167],
+      [0.5778, 0.5474, 0.0991, 0.0776]
+    ],
+    "labels": ["peace", "no_gesture"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  },
+  "0ad2798d-dbea-482d-8b50-494301401c1d": {
+    "bboxes": [
+      [0.1602, 0.1693, 0.1102, 0.1021],
+      [0.5889, 0.5474, 0.0944, 0.0734]
+    ],
+    "labels": ["rock", "no_gesture"],
+    "leading_conf": 1.0,
+    "leading_hand": "right"
+  }
+}
